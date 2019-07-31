@@ -1,0 +1,1 @@
+/var/www/html/eliferous/app/code/Nwdthemes/Revslider/view/adminhtml/web/admin/assets/js/codemirror/codemirror.js

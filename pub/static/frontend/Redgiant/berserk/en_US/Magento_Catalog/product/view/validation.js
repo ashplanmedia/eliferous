@@ -1,0 +1,1 @@
+/var/www/html/eliferous/vendor/magento/module-catalog/view/frontend/web/product/view/validation.js

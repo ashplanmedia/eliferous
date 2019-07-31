@@ -1,0 +1,1 @@
+/var/www/html/eliferous/vendor/magento/module-configurable-product/view/adminhtml/web/js/components/price-configurable.js

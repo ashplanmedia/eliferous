@@ -1,0 +1,1 @@
+/var/www/html/eliferous/lib/web/mage/translate-init.js
