@@ -1,1 +1,1 @@
-/var/www/html/eliferous/lib/web/mage/adminhtml/events.js
+/var/www/eliferous/lib/web/mage/adminhtml/events.js

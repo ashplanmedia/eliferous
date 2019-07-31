@@ -1,1 +1,1 @@
-/var/www/html/eliferous/lib/web/mage/sticky.js
+/var/www/eliferous/lib/web/mage/sticky.js

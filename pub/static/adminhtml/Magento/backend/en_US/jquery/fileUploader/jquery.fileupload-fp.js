@@ -1,1 +1,1 @@
-/var/www/html/eliferous/lib/web/jquery/fileUploader/jquery.fileupload-fp.js
+/var/www/eliferous/lib/web/jquery/fileUploader/jquery.fileupload-fp.js

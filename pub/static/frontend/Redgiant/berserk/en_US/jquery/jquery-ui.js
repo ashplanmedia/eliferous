@@ -1,1 +1,1 @@
-/var/www/html/eliferous/lib/web/jquery/jquery-ui.js
+/var/www/eliferous/lib/web/jquery/jquery-ui.js

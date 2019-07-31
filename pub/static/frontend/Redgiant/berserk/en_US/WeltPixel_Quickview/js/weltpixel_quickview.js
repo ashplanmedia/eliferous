@@ -1,1 +1,1 @@
-/var/www/html/eliferous/app/code/WeltPixel/Quickview/view/frontend/web/js/weltpixel_quickview.js
+/var/www/eliferous/app/code/WeltPixel/Quickview/view/frontend/web/js/weltpixel_quickview.js

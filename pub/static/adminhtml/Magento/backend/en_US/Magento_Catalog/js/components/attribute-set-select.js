@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-catalog/view/adminhtml/web/js/components/attribute-set-select.js
+/var/www/eliferous/vendor/magento/module-catalog/view/adminhtml/web/js/components/attribute-set-select.js

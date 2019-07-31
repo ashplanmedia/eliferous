@@ -48,7 +48,6 @@ return array(
     'Zend\\Code\\' => array($vendorDir . '/zendframework/zend-code/src'),
     'Zend\\Captcha\\' => array($vendorDir . '/zendframework/zend-captcha/src'),
     'Webmozart\\Assert\\' => array($vendorDir . '/webmozart/assert/src'),
-    'Vertex\\Tax\\' => array($vendorDir . '/vertex/module-tax'),
     'Vertex\\' => array($vendorDir . '/vertex/sdk/src'),
     'TrueBV\\' => array($vendorDir . '/true/punycode/src'),
     'Temando\\Shipping\\' => array($vendorDir . '/temando/module-shipping-m2'),

@@ -1,1 +1,1 @@
-/var/www/html/eliferous/lib/web/mage/gallery/gallery.js
+/var/www/eliferous/lib/web/mage/gallery/gallery.js

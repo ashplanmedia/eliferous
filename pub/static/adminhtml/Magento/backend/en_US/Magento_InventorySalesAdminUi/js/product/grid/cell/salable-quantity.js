@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-inventory-sales-admin-ui/view/adminhtml/web/js/product/grid/cell/salable-quantity.js
+/var/www/eliferous/vendor/magento/module-inventory-sales-admin-ui/view/adminhtml/web/js/product/grid/cell/salable-quantity.js

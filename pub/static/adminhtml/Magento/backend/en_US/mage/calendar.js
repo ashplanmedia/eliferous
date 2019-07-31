@@ -1,1 +1,1 @@
-/var/www/html/eliferous/lib/web/mage/calendar.js
+/var/www/eliferous/lib/web/mage/calendar.js

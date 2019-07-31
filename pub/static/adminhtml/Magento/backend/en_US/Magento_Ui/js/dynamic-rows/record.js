@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-ui/view/base/web/js/dynamic-rows/record.js
+/var/www/eliferous/vendor/magento/module-ui/view/base/web/js/dynamic-rows/record.js

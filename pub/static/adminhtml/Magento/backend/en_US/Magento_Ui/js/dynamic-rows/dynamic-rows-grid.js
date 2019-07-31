@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-ui/view/base/web/js/dynamic-rows/dynamic-rows-grid.js
+/var/www/eliferous/vendor/magento/module-ui/view/base/web/js/dynamic-rows/dynamic-rows-grid.js

@@ -18705,10 +18705,9 @@ a.action.compare:before {
   -webkit-transition: \transform .3s;
   transition: \transform .3s;
   border-top: 3px solid #2775ff;
-  overflow: scroll;
+  overflow: hidden;
   box-shadow: 0 0 3px rgba(0, 0, 0, 0.15);
   z-index: 105;
-  background-color: #fff;
 }
 .brk-info-menu.active {
   -webkit-transform: translateX(0);
@@ -18961,13 +18960,10 @@ a.action.compare:before {
   z-index: 1;
   content: '';
   display: block;
-  
 }
 .page-footer > div {
   position: relative;
   z-index: 2;
-  color: #fff!important;
-  background-color: #000;
 }
 .page-header .switcher .options,
 .page-footer .switcher .options {
@@ -24994,14 +24990,3 @@ fieldset[disabled] .sidebar .block-addbysku .action.remove {
     width: 33.33333333%;
   }
 }
-
-
-/* 
-Custom CSS Starts
-*/
-
-
-
-/*
-Custom CSS Ends
-*/

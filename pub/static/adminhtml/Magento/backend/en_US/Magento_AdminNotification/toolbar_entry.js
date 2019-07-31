@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-admin-notification/view/adminhtml/web/toolbar_entry.js
+/var/www/eliferous/vendor/magento/module-admin-notification/view/adminhtml/web/toolbar_entry.js

@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-customer/view/frontend/web/js/password-strength-indicator.js
+/var/www/eliferous/vendor/magento/module-customer/view/frontend/web/js/password-strength-indicator.js

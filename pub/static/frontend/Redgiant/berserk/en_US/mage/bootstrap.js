@@ -1,1 +1,1 @@
-/var/www/html/eliferous/lib/web/mage/bootstrap.js
+/var/www/eliferous/lib/web/mage/bootstrap.js

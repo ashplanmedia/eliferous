@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-theme/view/adminhtml/web/js/form/component/robots-reset-button.js
+/var/www/eliferous/vendor/magento/module-theme/view/adminhtml/web/js/form/component/robots-reset-button.js

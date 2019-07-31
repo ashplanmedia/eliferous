@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-ui/view/base/web/js/form/components/insert-form.js
+/var/www/eliferous/vendor/magento/module-ui/view/base/web/js/form/components/insert-form.js

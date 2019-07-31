@@ -1,1 +1,1 @@
-/var/www/html/eliferous/lib/web/fotorama/fotorama.js
+/var/www/eliferous/lib/web/fotorama/fotorama.js

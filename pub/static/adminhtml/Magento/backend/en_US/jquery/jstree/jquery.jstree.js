@@ -1,1 +1,1 @@
-/var/www/html/eliferous/lib/web/jquery/jstree/jquery.jstree.js
+/var/www/eliferous/lib/web/jquery/jstree/jquery.jstree.js

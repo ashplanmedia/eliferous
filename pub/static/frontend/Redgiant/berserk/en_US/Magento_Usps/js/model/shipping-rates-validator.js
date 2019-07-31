@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-usps/view/frontend/web/js/model/shipping-rates-validator.js
+/var/www/eliferous/vendor/magento/module-usps/view/frontend/web/js/model/shipping-rates-validator.js

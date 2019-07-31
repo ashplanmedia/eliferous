@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-ui/view/base/web/js/lib/knockout/template/renderer.js
+/var/www/eliferous/vendor/magento/module-ui/view/base/web/js/lib/knockout/template/renderer.js

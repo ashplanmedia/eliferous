@@ -1,1 +1,0 @@
-/var/www/html/eliferous/lib/web/jquery/colorpicker/js/colorpicker.js

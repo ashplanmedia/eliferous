@@ -1,6 +1,6 @@
 /**
  * WARNING: Do not change this file. Your changes will be lost.
- * 2019-07-30 13:30:23 */
+ * 2019-07-31 12:11:50 */
 body:not(.cms-index-index) .page-wrapper .top-container {
     padding-top: 100px;
 }
@@ -57,6 +57,25 @@ h6 {
 }
 .cms-page-view .top-container {
     display: none !important;
+}
+
+.block-minicart .block-content > .actions > .primary .action.primary{
+background-color: #000000!important;
+box-shadow: 0 6px 30px rgba(0, 0, 0, 0.12), inset 0 -3px #000;
+}
+
+.product-item .price-box .price{
+color: #000000!important;
+}
+.btn-prime {
+
+    color: #000000!important;
 }.page-footer {
     padding: 0;
+}
+.page-footer > div {
+    background-color: #000 !important;
+}
+.page-header.type4 .switcher{
+display:none!important;
 }

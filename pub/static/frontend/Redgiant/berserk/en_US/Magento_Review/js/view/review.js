@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-review/view/frontend/web/js/view/review.js
+/var/www/eliferous/vendor/magento/module-review/view/frontend/web/js/view/review.js

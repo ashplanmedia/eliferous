@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-configurable-product/view/adminhtml/web/js/variations/variations.js
+/var/www/eliferous/vendor/magento/module-configurable-product/view/adminhtml/web/js/variations/variations.js

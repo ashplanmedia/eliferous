@@ -1,1 +1,1 @@
-/var/www/html/eliferous/lib/web/jquery/fileUploader/jquery.iframe-transport.js
+/var/www/eliferous/lib/web/jquery/fileUploader/jquery.iframe-transport.js

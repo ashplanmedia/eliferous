@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/theme-adminhtml-backend/web/js/theme.js
+/var/www/eliferous/vendor/magento/theme-adminhtml-backend/web/js/theme.js

@@ -13,7 +13,7 @@ return [
                 'host' => 'localhost',
                 'dbname' => 'eliferous',
                 'username' => 'root',
-                'password' => 'Sandeep@123',
+                'password' => 'Eliferous@123',
                 'active' => '1'
             ]
         ]

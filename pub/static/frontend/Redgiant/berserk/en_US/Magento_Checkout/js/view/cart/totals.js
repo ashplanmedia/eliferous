@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-checkout/view/frontend/web/js/view/cart/totals.js
+/var/www/eliferous/vendor/magento/module-checkout/view/frontend/web/js/view/cart/totals.js

@@ -1,1 +1,0 @@
-/var/www/html/eliferous/app/design/frontend/Redgiant/berserk/web/js/gallery-sliders.js

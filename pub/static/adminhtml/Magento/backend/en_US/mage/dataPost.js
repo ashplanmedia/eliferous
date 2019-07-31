@@ -1,1 +1,1 @@
-/var/www/html/eliferous/lib/web/mage/dataPost.js
+/var/www/eliferous/lib/web/mage/dataPost.js

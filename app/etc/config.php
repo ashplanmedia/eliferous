@@ -5,7 +5,6 @@ return [
         'Magento_Directory' => 1,
         'Magento_Theme' => 1,
         'Magento_Backend' => 1,
-        'Eliferous_CustomModule' => 1,
         'Magento_Variable' => 1,
         'Magento_Eav' => 1,
         'Magento_AdminNotification' => 1,
@@ -201,7 +200,6 @@ return [
         'Redgiant_LayeredNavigation' => 1,
         'Redgiant_Megamenu' => 1,
         'Temando_Shipping' => 1,
-        'Vertex_Tax' => 1,
         'WeltPixel_Backend' => 1,
         'WeltPixel_Quickview' => 1
     ]

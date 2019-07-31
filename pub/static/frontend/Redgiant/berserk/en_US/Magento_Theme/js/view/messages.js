@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-theme/view/frontend/web/js/view/messages.js
+/var/www/eliferous/vendor/magento/module-theme/view/frontend/web/js/view/messages.js

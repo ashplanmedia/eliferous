@@ -1,1 +1,1 @@
-/var/www/html/eliferous/lib/web/mage/storage.js
+/var/www/eliferous/lib/web/mage/storage.js

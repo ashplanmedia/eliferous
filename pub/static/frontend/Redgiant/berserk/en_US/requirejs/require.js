@@ -1,1 +1,1 @@
-/var/www/html/eliferous/lib/web/requirejs/require.js
+/var/www/eliferous/lib/web/requirejs/require.js

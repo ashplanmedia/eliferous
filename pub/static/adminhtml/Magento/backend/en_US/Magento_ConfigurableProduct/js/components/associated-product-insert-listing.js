@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-configurable-product/view/adminhtml/web/js/components/associated-product-insert-listing.js
+/var/www/eliferous/vendor/magento/module-configurable-product/view/adminhtml/web/js/components/associated-product-insert-listing.js

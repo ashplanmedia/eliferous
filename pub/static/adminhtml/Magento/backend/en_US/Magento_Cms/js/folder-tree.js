@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-cms/view/adminhtml/web/js/folder-tree.js
+/var/www/eliferous/vendor/magento/module-cms/view/adminhtml/web/js/folder-tree.js

@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-ui/view/base/web/js/form/element/image-uploader.js
+/var/www/eliferous/vendor/magento/module-ui/view/base/web/js/form/element/image-uploader.js

@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-customer/view/frontend/web/js/invalidation-rules/website-rule.js
+/var/www/eliferous/vendor/magento/module-customer/view/frontend/web/js/invalidation-rules/website-rule.js

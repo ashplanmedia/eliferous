@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-inventory-configurable-product-admin-ui/view/adminhtml/web/js/components/sources-visibility-checker.js
+/var/www/eliferous/vendor/magento/module-inventory-configurable-product-admin-ui/view/adminhtml/web/js/components/sources-visibility-checker.js

@@ -1,1 +1,1 @@
-/var/www/html/eliferous/lib/web/mage/loader_old.js
+/var/www/eliferous/lib/web/mage/loader_old.js

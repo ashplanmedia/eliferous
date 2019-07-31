@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-search/view/frontend/web/js/form-mini.js
+/var/www/eliferous/vendor/magento/module-search/view/frontend/web/js/form-mini.js

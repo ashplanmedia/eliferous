@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-catalog/view/base/web/js/price-box.js
+/var/www/eliferous/vendor/magento/module-catalog/view/base/web/js/price-box.js

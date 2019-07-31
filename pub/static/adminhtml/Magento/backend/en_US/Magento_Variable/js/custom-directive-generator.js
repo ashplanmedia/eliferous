@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-variable/view/adminhtml/web/js/custom-directive-generator.js
+/var/www/eliferous/vendor/magento/module-variable/view/adminhtml/web/js/custom-directive-generator.js

@@ -1,1 +1,1 @@
-/var/www/html/eliferous/lib/web/mage/adminhtml/globals.js
+/var/www/eliferous/lib/web/mage/adminhtml/globals.js

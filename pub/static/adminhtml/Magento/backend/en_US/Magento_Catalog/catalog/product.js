@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-catalog/view/adminhtml/web/catalog/product.js
+/var/www/eliferous/vendor/magento/module-catalog/view/adminhtml/web/catalog/product.js

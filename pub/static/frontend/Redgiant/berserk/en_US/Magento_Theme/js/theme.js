@@ -1,1 +1,1 @@
-/var/www/html/eliferous/app/design/frontend/Redgiant/berserk/Magento_Theme/web/js/theme.js
+/var/www/eliferous/app/design/frontend/Redgiant/berserk/Magento_Theme/web/js/theme.js

@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-page-cache/view/frontend/web/js/page-cache.js
+/var/www/eliferous/vendor/magento/module-page-cache/view/frontend/web/js/page-cache.js

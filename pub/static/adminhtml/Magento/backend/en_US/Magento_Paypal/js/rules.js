@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-paypal/view/adminhtml/web/js/rules.js
+/var/www/eliferous/vendor/magento/module-paypal/view/adminhtml/web/js/rules.js

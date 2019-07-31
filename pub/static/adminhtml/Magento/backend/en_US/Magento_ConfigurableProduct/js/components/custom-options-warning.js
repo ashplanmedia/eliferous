@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-configurable-product/view/adminhtml/web/js/components/custom-options-warning.js
+/var/www/eliferous/vendor/magento/module-configurable-product/view/adminhtml/web/js/components/custom-options-warning.js

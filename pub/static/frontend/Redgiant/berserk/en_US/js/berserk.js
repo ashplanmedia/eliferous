@@ -1,1 +1,1 @@
-/var/www/html/eliferous/app/design/frontend/Redgiant/berserk/web/js/berserk.js
+/var/www/eliferous/app/design/frontend/Redgiant/berserk/web/js/berserk.js

@@ -1,1 +1,1 @@
-/var/www/html/eliferous/lib/web/jquery/spectrum/tinycolor.js
+/var/www/eliferous/lib/web/jquery/spectrum/tinycolor.js

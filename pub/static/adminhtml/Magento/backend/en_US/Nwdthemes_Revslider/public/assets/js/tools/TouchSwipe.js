@@ -1,1 +1,0 @@
-/var/www/html/eliferous/app/code/Nwdthemes/Revslider/view/adminhtml/web/public/assets/js/tools/TouchSwipe.js

@@ -1,1 +1,1 @@
-/var/www/html/eliferous/lib/web/jquery/fileUploader/load-image.js
+/var/www/eliferous/lib/web/jquery/fileUploader/load-image.js

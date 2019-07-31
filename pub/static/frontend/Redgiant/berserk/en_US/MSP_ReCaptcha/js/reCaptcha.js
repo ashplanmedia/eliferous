@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/msp/recaptcha/view/frontend/web/js/reCaptcha.js
+/var/www/eliferous/vendor/msp/recaptcha/view/frontend/web/js/reCaptcha.js

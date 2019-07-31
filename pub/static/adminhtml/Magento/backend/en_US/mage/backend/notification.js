@@ -1,1 +1,1 @@
-/var/www/html/eliferous/lib/web/mage/backend/notification.js
+/var/www/eliferous/lib/web/mage/backend/notification.js

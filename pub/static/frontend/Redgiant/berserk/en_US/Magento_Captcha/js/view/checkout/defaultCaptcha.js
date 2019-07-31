@@ -1,1 +1,1 @@
-/var/www/html/eliferous/vendor/magento/module-captcha/view/frontend/web/js/view/checkout/defaultCaptcha.js
+/var/www/eliferous/vendor/magento/module-captcha/view/frontend/web/js/view/checkout/defaultCaptcha.js

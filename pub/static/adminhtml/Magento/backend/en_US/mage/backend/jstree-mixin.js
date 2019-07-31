@@ -1,1 +1,1 @@
-/var/www/html/eliferous/lib/web/mage/backend/jstree-mixin.js
+/var/www/eliferous/lib/web/mage/backend/jstree-mixin.js
