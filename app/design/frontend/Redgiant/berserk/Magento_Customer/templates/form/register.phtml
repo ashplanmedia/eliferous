@@ -29,10 +29,13 @@
         <input type="hidden" name="error_url" value="<?php echo $block->escapeUrl($block->getErrorUrl()) ?>">
         <?php echo $block->getLayout()->createBlock(\Magento\Customer\Block\Widget\Name::class)->setObject($block->getFormData())->setForceUseCustomerAttributes(true)->toHtml() ?>
         <?php if ($block->isNewsletterEnabled()): ?>
+<!-----------
             <div class="field choice newsletter">
-                <input type="checkbox" name="is_subscribed" title="<?php echo $block->escapeHtml(__('Sign Up for Newsletter')) ?>" value="1" id="is_subscribed"<?php if ($block->getFormData()->getIsSubscribed()): ?> checked="checked"<?php endif; ?> class="checkbox">
+             <input type="checkbox" name="is_subscribed" title="<?php echo $block->escapeHtml(__('Sign Up for Newsletter')) ?>" value="1" id="is_subscribed"<?php if ($block->getFormData()->getIsSubscribed()): ?> checked="checked"<?php endif; ?> class="checkbox">
 
-                <label for="is_subscribed" class="label"><span><?php echo $block->escapeHtml(__('Sign Up for Newsletter')) ?></span></label>            </div>
+                <label for="is_subscribed" class="label"><span><?php echo $block->escapeHtml(__('Sign Up for Newsletter')) ?></span></label>            
+         </div>
+-------->
             <?php /* Extensions placeholder */ ?>
             <?php echo $block->getChildHtml('customer.form.register.newsletter')?>
         <?php endif ?>
