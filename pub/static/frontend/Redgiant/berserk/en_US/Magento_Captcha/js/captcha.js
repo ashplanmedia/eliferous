@@ -1,0 +1,1 @@
+/var/www/eliferous/vendor/magento/module-captcha/view/frontend/web/js/captcha.js

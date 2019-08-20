@@ -1,4 +1,4 @@
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1565080123;s:6:"expire";i:9999999999;s:4:"tags";s:163:"3d7_DEFAULT,3d7_CMS_NOROUTE_INDEX,3d7_CMS_PAGE_VIEW,3d7_CMS_NOROUTE_INDEX_ID_BERSERK_NO_ROUTE,3d7_NWDTHEMES_REVSLIDER_DEFAULT,3d7_LAYOUT_GENERAL_CACHE_TAG,3d7_MAGE";}
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1566306931;s:6:"expire";i:9999999999;s:4:"tags";s:163:"3d7_DEFAULT,3d7_CMS_NOROUTE_INDEX,3d7_CMS_PAGE_VIEW,3d7_CMS_NOROUTE_INDEX_ID_BERSERK_NO_ROUTE,3d7_NWDTHEMES_REVSLIDER_DEFAULT,3d7_LAYOUT_GENERAL_CACHE_TAG,3d7_MAGE";}
 <referenceContainer name="content">
     <referenceContainer name="sidebar.additional" remove="true" />
 </referenceContainer>

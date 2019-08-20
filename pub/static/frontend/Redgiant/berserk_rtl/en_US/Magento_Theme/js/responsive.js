@@ -1,0 +1,1 @@
+/var/www/eliferous/vendor/magento/theme-frontend-blank/Magento_Theme/web/js/responsive.js
