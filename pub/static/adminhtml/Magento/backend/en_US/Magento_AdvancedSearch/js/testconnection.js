@@ -1,0 +1,1 @@
+/var/www/eliferous/vendor/magento/module-advanced-search/view/adminhtml/web/js/testconnection.js
