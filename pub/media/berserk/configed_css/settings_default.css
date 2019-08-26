@@ -1,6 +1,6 @@
 /**
  * WARNING: Do not change this file. Your changes will be lost.
- * 2019-08-23 12:46:09 */
+ * 2019-08-26 06:16:36 */
 .page-footer {
      background: none;
      padding: 0;
@@ -117,6 +117,10 @@ border-top: 5px solid #000 !important;
 }
 .brk-form-round .jq-selectbox__dropdown ul li.sel, .brk-form-round .jq-selectbox__dropdown ul li.selected, .brk-form-round .jq-selectbox__dropdown ul li:hover {
     color: #000 !important;
+}
+@media screen and (max-width: 768px) {
+.page-header.type4 .header-right-area {display: none !important;}
+.navigation .parent .level-top::after {display: none !important;}
 }.page-footer {
     padding: 0;
 }

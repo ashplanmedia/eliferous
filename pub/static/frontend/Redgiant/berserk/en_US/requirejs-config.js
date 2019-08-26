@@ -348,16 +348,7 @@ require.config(config);
 var config = {
     map: {
         '*': {
-            orderReview: 'Magento_Paypal/js/order-review',
-            paypalCheckout: 'Magento_Paypal/js/paypal-checkout'
-        }
-    },
-    paths: {
-        paypalInContextExpressCheckout: 'https://www.paypalobjects.com/api/checkout'
-    },
-    shim: {
-        paypalInContextExpressCheckout: {
-            exports: 'paypal'
+            transparent: 'Magento_Payment/js/transparent'
         }
     }
 };
@@ -373,7 +364,16 @@ require.config(config);
 var config = {
     map: {
         '*': {
-            transparent: 'Magento_Payment/js/transparent'
+            orderReview: 'Magento_Paypal/js/order-review',
+            paypalCheckout: 'Magento_Paypal/js/paypal-checkout'
+        }
+    },
+    paths: {
+        paypalInContextExpressCheckout: 'https://www.paypalobjects.com/api/checkout'
+    },
+    shim: {
+        paypalInContextExpressCheckout: {
+            exports: 'paypal'
         }
     }
 };

@@ -930,3 +930,51 @@ setup-cron: Please check var/log/update.log for execution summary.
 setup-cron: Please check var/log/update.log for execution summary.
 setup-cron: Please check var/log/update.log for execution summary.
 setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+Autoload error: Vendor autoload is not found. Please run 'composer install' under application root directory.setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+The XML in file "/var/www/eliferous/app/etc/di.xml" is invalid:
+Memory allocation failed : building attribute
+Line: 0
+
+Memory allocation failed : xmlSAX2AttributeNs
+Line: 419
+
+Extra content at the end of the document
+Line: 419
+
+Verify the XML and try again.
+The XML in file "/var/www/eliferous/app/etc/di.xml" is invalid:
+Memory allocation failed
+Line: 0
+
+Memory allocation failed
+Line: 0
+
+xmlSAX2StartElementNs
+Line: 412
+
+Extra content at the end of the document
+Line: 412
+
+Verify the XML and try again.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.

@@ -1,1 +1,0 @@
-/var/www/eliferous/lib/web/jquery/jquery.mobile.custom.js

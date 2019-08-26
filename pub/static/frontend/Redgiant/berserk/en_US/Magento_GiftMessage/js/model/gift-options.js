@@ -1,1 +1,0 @@
-/var/www/eliferous/vendor/magento/module-gift-message/view/frontend/web/js/model/gift-options.js
