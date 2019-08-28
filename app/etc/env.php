@@ -12,7 +12,7 @@ return [
             'default' => [
                 'host' => 'localhost',
                 'dbname' => 'eliferous',
-                'username' => 'root',
+                'username' => 'eliferous',
                 'password' => 'Eliferous@123',
                 'active' => '1'
             ]

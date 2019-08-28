@@ -1,0 +1,1 @@
+/var/www/eliferous/app/code/Redgiant/LayeredNavigation/view/frontend/web/js/model/loader.js

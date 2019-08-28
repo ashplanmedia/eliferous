@@ -1,0 +1,1 @@
+/var/www/eliferous/vendor/magento/module-catalog/view/adminhtml/web/component/image-size-field.js

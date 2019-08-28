@@ -1,0 +1,1 @@
+/var/www/eliferous/app/design/frontend/Redgiant/berserk/web/packery/packery.pkgd.js

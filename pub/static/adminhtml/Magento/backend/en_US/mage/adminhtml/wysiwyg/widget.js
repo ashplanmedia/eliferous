@@ -1,0 +1,1 @@
+/var/www/eliferous/lib/web/mage/adminhtml/wysiwyg/widget.js

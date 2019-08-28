@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--
 /**
  * Copyright © Magento, Inc. All rights reserved.
@@ -54,7 +54,7 @@
                 <collapsible>true</collapsible>
                 <label translate="true">HTML Head</label>
             </settings>
-            <field name="head_shortcut_icon" formElement="fileUploader">
+            <field name="head_shortcut_icon" formElement="imageUploader">
                 <settings>
                     <notice translate="true">Not all browsers support all these formats!</notice>
                     <label translate="true">Favicon Icon</label>
@@ -66,7 +66,7 @@
                             <allowedExtensions>jpg jpeg gif png ico apng</allowedExtensions>
                             <maxFileSize>2097152</maxFileSize>
                             <uploaderConfig>
-                                <param xsi:type="string" name="url">theme/design_config_fileUploader/save</param>
+                                <param xsi:type="string" name="url">theme/design_config_imageUploader/save</param>
                             </uploaderConfig>
                         </settings>
                     </imageUploader>
@@ -151,7 +151,7 @@
                 <collapsible>true</collapsible>
                 <label translate="true">Header</label>
             </settings>
-            <field name="header_logo_src" formElement="fileUploader">
+            <field name="header_logo_src" formElement="imageUploader">
                 <settings>
                     <label translate="true">Logo Image</label>
                     <componentType>imageUploader</componentType>
@@ -162,7 +162,7 @@
                             <allowedExtensions>jpg jpeg gif png</allowedExtensions>
                             <maxFileSize>2097152</maxFileSize>
                             <uploaderConfig>
-                                <param xsi:type="string" name="url">theme/design_config_fileUploader/save</param>
+                                <param xsi:type="string" name="url">theme/design_config_imageUploader/save</param>
                             </uploaderConfig>
                         </settings>
                     </imageUploader>
