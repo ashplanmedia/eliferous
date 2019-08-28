@@ -1,1 +1,0 @@
-/var/www/eliferous/lib/web/mage/apply/scripts.js

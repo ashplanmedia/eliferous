@@ -978,3 +978,18 @@ setup-cron: Please check var/log/update.log for execution summary.
 setup-cron: Please check var/log/update.log for execution summary.
 setup-cron: Please check var/log/update.log for execution summary.
 setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+Autoload error: Vendor autoload is not found. Please run 'composer install' under application root directory.Autoload error: Vendor autoload is not found. Please run 'composer install' under application root directory.Autoload error: Vendor autoload is not found. Please run 'composer install' under application root directory.Autoload error: Vendor autoload is not found. Please run 'composer install' under application root directory.Autoload error: Vendor autoload is not found. Please run 'composer install' under application root directory.Autoload error: Vendor autoload is not found. Please run 'composer install' under application root directory.Autoload error: Vendor autoload is not found. Please run 'composer install' under application root directory.The directory "/var/www/eliferous/generated/code/Magento/Catalog/Model/Product/ReservedAttributeList" cannot be deleted Warning!rmdir(/var/www/eliferous/generated/code/Magento/Catalog/Model/Product/ReservedAttributeList): No such file or directory
+cache_dir "/var/www/eliferous/var/cache/" is not writable
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+Warning: proc_open(): fork failed - Cannot allocate memory in /var/www/eliferous/vendor/symfony/console/Terminal.php on line 127#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'proc_open(): fo...', '/var/www/elifer...', 127, Array)
+#1 /var/www/eliferous/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /var/www/eliferous/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /var/www/eliferous/vendor/symfony/console/Terminal.php(51): Symfony\Component\Console\Terminal::initDimensions()
+#4 /var/www/eliferous/vendor/symfony/console/Application.php(112): Symfony\Component\Console\Terminal->getHeight()
+#5 /var/www/eliferous/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main}
+
+Warning: DOMXPath::query(): Memory allocation failed : growing nodeset in /var/www/eliferous/vendor/magento/framework/Config/Dom.php on line 277

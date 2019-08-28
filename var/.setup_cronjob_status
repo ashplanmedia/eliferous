@@ -7,7 +7,7 @@
             "responseType": "success",
             "data": {
                 "required": "~7.1.3||~7.2.0",
-                "current": "7.1.29-1+ubuntu18.04.1+deb.sury.org+1"
+                "current": "7.2.21-1+ubuntu18.04.1+deb.sury.org+1"
             }
         },
         "php_extensions_verified": {
@@ -181,6 +181,6 @@
         ],
         "error": ""
     },
-    "last_timestamp": 1566801363,
-    "current_timestamp": 1566801423
+    "last_timestamp": 1566986122,
+    "current_timestamp": 1566986122
 }

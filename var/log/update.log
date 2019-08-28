@@ -953,3 +953,4 @@
 [2019-08-24 14:10:09] setup-cron.ERROR: SQLSTATE[HY000] [2002] Connection refused [] []
 [2019-08-24 14:11:02] setup-cron.ERROR: SQLSTATE[HY000] [2002] Connection refused [] []
 [2019-08-24 14:12:03] setup-cron.ERROR: SQLSTATE[HY000] [2002] Connection refused [] []
+[2019-08-28 05:49:07] setup-cron.ERROR: SQLSTATE[HY000] [2002] Connection refused [] []

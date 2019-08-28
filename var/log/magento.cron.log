@@ -13407,3 +13407,519 @@ In Abstract.php line 128:
 
 cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
 
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In ErrorHandler.php line 61:
+                                                                               
+  Warning: Error while sending QUERY packet. PID=12569 in /var/www/eliferous/  
+  vendor/magento/zendframework1/library/Zend/Db/Adapter/Pdo/Abstract.php on l  
+  ine 322                                                                      
+                                                                               
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+PHP Fatal error:  Uncaught Exception: User Error: Some transactions have not been committed or rolled back in /var/www/eliferous/vendor/magento/framework/DB/Adapter/Pdo/Mysql.php on line 3955 in /var/www/eliferous/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(256, 'Some transactio...', '/var/www/elifer...', 3955, Array)
+#1 /var/www/eliferous/vendor/magento/framework/DB/Adapter/Pdo/Mysql.php(3955): trigger_error('Some transactio...', 256)
+#2 [internal function]: Magento\Framework\DB\Adapter\Pdo\Mysql->__destruct()
+#3 {main}
+  thrown in /var/www/eliferous/vendor/magento/framework/App/ErrorHandler.php on line 61
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In ErrorHandler.php line 61:
+                                                                               
+  Warning: Error while sending QUERY packet. PID=1324 in /var/www/eliferous/v  
+  endor/magento/zendframework1/library/Zend/Db/Adapter/Pdo/Abstract.php on li  
+  ne 305                                                                       
+                                                                               
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+
+In Abstract.php line 144:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+In Abstract.php line 128:
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+                                                    
+  SQLSTATE[HY000] [2002] No such file or directory  
+                                                    
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+PHP Fatal error:  Uncaught Error: Class 'Psr\Log\LogLevel' not found in /var/www/eliferous/vendor/composer/composer/src/Composer/IO/BaseIO.php:230
+Stack trace:
+#0 /var/www/eliferous/vendor/composer/ca-bundle/src/CaBundle.php(188): Composer\IO\BaseIO->debug('Checked CA file...')
+#1 /var/www/eliferous/vendor/composer/ca-bundle/src/CaBundle.php(109): Composer\CaBundle\CaBundle::validateCaFile('/etc/ssl/certs/...', Object(Composer\IO\BufferIO))
+#2 /var/www/eliferous/vendor/composer/composer/src/Composer/Util/RemoteFilesystem.php(967): Composer\CaBundle\CaBundle::getSystemCaRootBundlePath(Object(Composer\IO\BufferIO))
+#3 /var/www/eliferous/vendor/composer/composer/src/Composer/Util/RemoteFilesystem.php(63): Composer\Util\RemoteFilesystem->getTlsDefaults(Array)
+#4 /var/www/eliferous/vendor/composer/composer/src/Composer/Factory.php(610): Composer\Util\RemoteFilesystem->__construct(Object(Composer\IO\BufferIO), Object(Composer\Config), Array, false)
+#5 /var/www/eliferous/vendor/composer/composer/src/Composer/Factory.php(328): Compose in /var/www/eliferous/vendor/composer/composer/src/Composer/IO/BaseIO.php on line 230
+PHP Fatal error:  Uncaught Error: Class 'Psr\Log\LogLevel' not found in /var/www/eliferous/vendor/composer/composer/src/Composer/IO/BaseIO.php:230
+Stack trace:
+#0 /var/www/eliferous/vendor/composer/ca-bundle/src/CaBundle.php(188): Composer\IO\BaseIO->debug('Checked CA file...')
+#1 /var/www/eliferous/vendor/composer/ca-bundle/src/CaBundle.php(109): Composer\CaBundle\CaBundle::validateCaFile('/etc/ssl/certs/...', Object(Composer\IO\BufferIO))
+#2 /var/www/eliferous/vendor/composer/composer/src/Composer/Util/RemoteFilesystem.php(967): Composer\CaBundle\CaBundle::getSystemCaRootBundlePath(Object(Composer\IO\BufferIO))
+#3 /var/www/eliferous/vendor/composer/composer/src/Composer/Util/RemoteFilesystem.php(63): Composer\Util\RemoteFilesystem->getTlsDefaults(Array)
+#4 /var/www/eliferous/vendor/composer/composer/src/Composer/Factory.php(610): Composer\Util\RemoteFilesystem->__construct(Object(Composer\IO\BufferIO), Object(Composer\Config), Array, false)
+#5 /var/www/eliferous/vendor/composer/composer/src/Composer/Factory.php(328): Compose in /var/www/eliferous/vendor/composer/composer/src/Composer/IO/BaseIO.php on line 230
+PHP Fatal error:  Uncaught Error: Class 'Psr\Log\LogLevel' not found in /var/www/eliferous/vendor/composer/composer/src/Composer/IO/BaseIO.php:230
+Stack trace:
+#0 /var/www/eliferous/vendor/composer/ca-bundle/src/CaBundle.php(188): Composer\IO\BaseIO->debug('Checked CA file...')
+#1 /var/www/eliferous/vendor/composer/ca-bundle/src/CaBundle.php(109): Composer\CaBundle\CaBundle::validateCaFile('/etc/ssl/certs/...', Object(Composer\IO\BufferIO))
+#2 /var/www/eliferous/vendor/composer/composer/src/Composer/Util/RemoteFilesystem.php(967): Composer\CaBundle\CaBundle::getSystemCaRootBundlePath(Object(Composer\IO\BufferIO))
+#3 /var/www/eliferous/vendor/composer/composer/src/Composer/Util/RemoteFilesystem.php(63): Composer\Util\RemoteFilesystem->getTlsDefaults(Array)
+#4 /var/www/eliferous/vendor/composer/composer/src/Composer/Factory.php(610): Composer\Util\RemoteFilesystem->__construct(Object(Composer\IO\BufferIO), Object(Composer\Config), Array, false)
+#5 /var/www/eliferous/vendor/composer/composer/src/Composer/Factory.php(328): Compose in /var/www/eliferous/vendor/composer/composer/src/Composer/IO/BaseIO.php on line 230
+PHP Fatal error:  Uncaught Error: Class 'Psr\Log\LogLevel' not found in /var/www/eliferous/vendor/composer/composer/src/Composer/IO/BaseIO.php:230
+Stack trace:
+#0 /var/www/eliferous/vendor/composer/ca-bundle/src/CaBundle.php(188): Composer\IO\BaseIO->debug('Checked CA file...')
+#1 /var/www/eliferous/vendor/composer/ca-bundle/src/CaBundle.php(109): Composer\CaBundle\CaBundle::validateCaFile('/etc/ssl/certs/...', Object(Composer\IO\BufferIO))
+#2 /var/www/eliferous/vendor/composer/composer/src/Composer/Util/RemoteFilesystem.php(967): Composer\CaBundle\CaBundle::getSystemCaRootBundlePath(Object(Composer\IO\BufferIO))
+#3 /var/www/eliferous/vendor/composer/composer/src/Composer/Util/RemoteFilesystem.php(63): Composer\Util\RemoteFilesystem->getTlsDefaults(Array)
+#4 /var/www/eliferous/vendor/composer/composer/src/Composer/Factory.php(610): Composer\Util\RemoteFilesystem->__construct(Object(Composer\IO\BufferIO), Object(Composer\Config), Array, false)
+#5 /var/www/eliferous/vendor/composer/composer/src/Composer/Factory.php(328): Compose in /var/www/eliferous/vendor/composer/composer/src/Composer/IO/BaseIO.php on line 230
+PHP Fatal error:  Uncaught Error: Class 'Psr\Log\LogLevel' not found in /var/www/eliferous/vendor/composer/composer/src/Composer/IO/BaseIO.php:230
+Stack trace:
+#0 /var/www/eliferous/vendor/composer/ca-bundle/src/CaBundle.php(188): Composer\IO\BaseIO->debug('Checked CA file...')
+#1 /var/www/eliferous/vendor/composer/ca-bundle/src/CaBundle.php(109): Composer\CaBundle\CaBundle::validateCaFile('/etc/ssl/certs/...', Object(Composer\IO\BufferIO))
+#2 /var/www/eliferous/vendor/composer/composer/src/Composer/Util/RemoteFilesystem.php(967): Composer\CaBundle\CaBundle::getSystemCaRootBundlePath(Object(Composer\IO\BufferIO))
+#3 /var/www/eliferous/vendor/composer/composer/src/Composer/Util/RemoteFilesystem.php(63): Composer\Util\RemoteFilesystem->getTlsDefaults(Array)
+#4 /var/www/eliferous/vendor/composer/composer/src/Composer/Factory.php(610): Composer\Util\RemoteFilesystem->__construct(Object(Composer\IO\BufferIO), Object(Composer\Config), Array, false)
+#5 /var/www/eliferous/vendor/composer/composer/src/Composer/Factory.php(328): Compose in /var/www/eliferous/vendor/composer/composer/src/Composer/IO/BaseIO.php on line 230
+PHP Fatal error:  Uncaught Error: Class 'Psr\Log\LogLevel' not found in /var/www/eliferous/vendor/composer/composer/src/Composer/IO/BaseIO.php:230
+Stack trace:
+#0 /var/www/eliferous/vendor/composer/ca-bundle/src/CaBundle.php(188): Composer\IO\BaseIO->debug('Checked CA file...')
+#1 /var/www/eliferous/vendor/composer/ca-bundle/src/CaBundle.php(109): Composer\CaBundle\CaBundle::validateCaFile('/etc/ssl/certs/...', Object(Composer\IO\BufferIO))
+#2 /var/www/eliferous/vendor/composer/composer/src/Composer/Util/RemoteFilesystem.php(967): Composer\CaBundle\CaBundle::getSystemCaRootBundlePath(Object(Composer\IO\BufferIO))
+#3 /var/www/eliferous/vendor/composer/composer/src/Composer/Util/RemoteFilesystem.php(63): Composer\Util\RemoteFilesystem->getTlsDefaults(Array)
+#4 /var/www/eliferous/vendor/composer/composer/src/Composer/Factory.php(610): Composer\Util\RemoteFilesystem->__construct(Object(Composer\IO\BufferIO), Object(Composer\Config), Array, false)
+#5 /var/www/eliferous/vendor/composer/composer/src/Composer/Factory.php(328): Compose in /var/www/eliferous/vendor/composer/composer/src/Composer/IO/BaseIO.php on line 230
+PHP Fatal error:  Uncaught Error: Class 'Psr\Log\LogLevel' not found in /var/www/eliferous/vendor/composer/composer/src/Composer/IO/BaseIO.php:230
+Stack trace:
+#0 /var/www/eliferous/vendor/composer/ca-bundle/src/CaBundle.php(188): Composer\IO\BaseIO->debug('Checked CA file...')
+#1 /var/www/eliferous/vendor/composer/ca-bundle/src/CaBundle.php(109): Composer\CaBundle\CaBundle::validateCaFile('/etc/ssl/certs/...', Object(Composer\IO\BufferIO))
+#2 /var/www/eliferous/vendor/composer/composer/src/Composer/Util/RemoteFilesystem.php(967): Composer\CaBundle\CaBundle::getSystemCaRootBundlePath(Object(Composer\IO\BufferIO))
+#3 /var/www/eliferous/vendor/composer/composer/src/Composer/Util/RemoteFilesystem.php(63): Composer\Util\RemoteFilesystem->getTlsDefaults(Array)
+#4 /var/www/eliferous/vendor/composer/composer/src/Composer/Factory.php(610): Composer\Util\RemoteFilesystem->__construct(Object(Composer\IO\BufferIO), Object(Composer\Config), Array, false)
+#5 /var/www/eliferous/vendor/composer/composer/src/Composer/Factory.php(328): Compose in /var/www/eliferous/vendor/composer/composer/src/Composer/IO/BaseIO.php on line 230
+PHP Warning:  require(/var/www/eliferous/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php): failed to open stream: No such file or directory in /var/www/eliferous/vendor/composer/autoload_real.php on line 70
+PHP Fatal error:  require(): Failed opening required '/var/www/eliferous/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php' (include_path='/var/www/eliferous/vendor/magento/zendframework1/library:.:/usr/share/php') in /var/www/eliferous/vendor/composer/autoload_real.php on line 70
+PHP Warning:  require(/var/www/eliferous/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php): failed to open stream: No such file or directory in /var/www/eliferous/vendor/composer/autoload_real.php on line 70
+PHP Fatal error:  require(): Failed opening required '/var/www/eliferous/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php' (include_path='/var/www/eliferous/vendor/magento/zendframework1/library:.:/usr/share/php') in /var/www/eliferous/vendor/composer/autoload_real.php on line 70
+PHP Fatal error:  Interface 'Psr\Container\ContainerInterface' not found in /var/www/eliferous/vendor/container-interop/container-interop/src/Interop/Container/ContainerInterface.php on line 13
+Autoload error: Vendor autoload is not found. Please run 'composer install' under application root directory.
+Autoload error: Vendor autoload is not found. Please run 'composer install' under application root directory.
+Autoload error: Vendor autoload is not found. Please run 'composer install' under application root directory.
+Autoload error: Vendor autoload is not found. Please run 'composer install' under application root directory.
+Autoload error: Vendor autoload is not found. Please run 'composer install' under application root directory.
+Autoload error: Vendor autoload is not found. Please run 'composer install' under application root directory.
+Autoload error: Vendor autoload is not found. Please run 'composer install' under application root directory.
+
+In File.php line 383:
+                                                                               
+  The "/var/www/eliferous/generated/code/Symfony/Component/Console/Question"   
+  file can't be deleted. Warning!unlink(/var/www/eliferous/generated/code/Sym  
+  fony/Component/Console/Question): No such file or directory                  
+                                                                               
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+In File.php line 414:
+                                                                               
+  The directory "/var/www/eliferous/generated/code/Symfony/Component/Console/  
+  Question" cannot be deleted Warning!rmdir(/var/www/eliferous/generated/code  
+  /Symfony/Component/Console/Question): No such file or directory              
+                                                                               
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+In File.php line 414:
+                                                                               
+  The directory "/var/www/eliferous/generated/code/Magento/MediaStorage/Model  
+  /File/Storage/File" cannot be deleted Warning!rmdir(/var/www/eliferous/gene  
+  rated/code/Magento/MediaStorage/Model/File/Storage/File): No such file or d  
+  irectory                                                                     
+                                                                               
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+The directory "/var/www/eliferous/generated/code/Magento/Catalog/Model/Attribute/Backend/Startdate" cannot be deleted Warning!rmdir(/var/www/eliferous/generated/code/Magento/Catalog/Model/Attribute/Backend/Startdate): No such file or directory
+cache_dir "/var/www/eliferous/var/cache/" is not writable
+
+In File.php line 414:
+                                                                               
+  The directory "/var/www/eliferous/generated/code/Symfony/Component/Console/  
+  Helper" cannot be deleted Warning!rmdir(/var/www/eliferous/generated/code/S  
+  ymfony/Component/Console/Helper): No such file or directory                  
+                                                                               
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+In File.php line 414:
+                                                                               
+  The directory "/var/www/eliferous/generated/code/Composer/Console" cannot b  
+  e deleted Warning!rmdir(/var/www/eliferous/generated/code/Composer/Console)  
+  : No such file or directory                                                  
+                                                                               
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+mmap() failed: [12] Cannot allocate memory
+
+Can't initialize heap: [12] Cannot allocate memory
+
+mmap() failed: [12] Cannot allocate memory
+
+Can't initialize heap: [12] Cannot allocate memory
+
+mmap() failed: [12] Cannot allocate memory
+
+Can't initialize heap: [12] Cannot allocate memory
+/usr/bin/php7.1: error while loading shared libraries: libpcre.so.3: failed to map segment from shared object
+/usr/bin/php7.1: error while loading shared libraries: out of memory: Cannot allocate memory
+cannot allocate TLS data structures for initial thread
+
+mmap() failed: [12] Cannot allocate memory
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /var/www/eliferous/vendor/phpseclib/mcrypt_compat/lib/mcrypt.php on line 1014
+
+mmap() failed: [12] Cannot allocate memory
+
+Can't initialize heap: [12] Cannot allocate memory
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/gd.so' - libXpm.so.4: failed to map segment from shared object in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/gettext.so' - /usr/lib/php/20160303/gettext.so: failed to map segment from shared object in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/gmp.so' - /usr/lib/php/20160303/gmp.so: failed to map segment from shared object in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/iconv.so' - /usr/lib/php/20160303/iconv.so: failed to map segment from shared object in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/intl.so' - libicuio.so.64: failed to map segment from shared object in Unknown on line 0
+Out of memory
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/curl.so' - libkrb5support.so.0: failed to map segment from shared object in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/fileinfo.so' - /usr/lib/php/20160303/fileinfo.so: failed to map segment from shared object in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/gd.so' - libXpm.so.4: failed to map segment from shared object in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/gettext.so' - /usr/lib/php/20160303/gettext.so: failed to map segment from shared object in Unknown on line 0
+Out of memory
+/usr/bin/php7.1: error while loading shared libraries: libresolv.so.2: cannot create shared object descriptor: Cannot allocate memory
+/usr/bin/php7.1: error while loading shared libraries: libm.so.6: failed to map segment from shared object
+
+mmap() failed: [12] Cannot allocate memory
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /var/www/eliferous/vendor/phpseclib/mcrypt_compat/lib/mcrypt.php on line 1014
+
+mmap() failed: [12] Cannot allocate memory
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /var/www/eliferous/vendor/phpseclib/mcrypt_compat/lib/mcrypt.php on line 1014
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/simplexml.so' - /usr/lib/php/20160303/simplexml.so: failed to map segment from shared object in Unknown on line 0
+
+mmap() failed: [12] Cannot allocate memory
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /var/www/eliferous/vendor/phpseclib/mcrypt_compat/lib/mcrypt.php on line 1014
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/curl.so' - liblber-2.4.so.2: failed to map segment from shared object in Unknown on line 0
+
+mmap() failed: [12] Cannot allocate memory
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /var/www/eliferous/vendor/phpseclib/mcrypt_compat/lib/mcrypt.php on line 1014
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/intl.so' - libicudata.so.64: failed to map segment from shared object in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/json.so' - /usr/lib/php/20160303/json.so: failed to map segment from shared object in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/mbstring.so' - /usr/lib/php/20160303/mbstring.so: failed to map segment from shared object in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/mcrypt.so' - libmcrypt.so.4: cannot map zero-fill pages in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/readline.so' - /usr/lib/php/20160303/readline.so: failed to map segment from shared object in Unknown on line 0
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 12288 bytes) in /var/www/eliferous/vendor/zendframework/zend-validator/src/ValidatorPluginManager.php on line 25
+
+mmap() failed: [12] Cannot allocate memory
+
+Can't initialize heap: [12] Cannot allocate memory
+
+mmap() failed: [12] Cannot allocate memory
+
+Can't initialize heap: [12] Cannot allocate memory
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/mysqlnd.so' - /usr/lib/php/20160303/mysqlnd.so: cannot map zero-fill pages in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/curl.so' - libwind.so.0: failed to map segment from shared object in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/mysqli.so' - /usr/lib/php/20160303/mysqli.so: undefined symbol: mysqlnd_global_stats in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/pdo_mysql.so' - /usr/lib/php/20160303/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+Out of memory
+
+mmap() failed: [12] Cannot allocate memory
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /var/www/eliferous/vendor/phpseclib/mcrypt_compat/lib/mcrypt.php on line 1014
+
+mmap() failed: [12] Cannot allocate memory
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /var/www/eliferous/vendor/phpseclib/mcrypt_compat/lib/mcrypt.php on line 1014
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/curl.so' - liblber-2.4.so.2: failed to map segment from shared object in Unknown on line 0
+
+mmap() failed: [12] Cannot allocate memory
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /var/www/eliferous/vendor/phpseclib/mcrypt_compat/lib/mcrypt.php on line 1014
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 12288 bytes) in /var/www/eliferous/vendor/zendframework/zend-validator/src/ValidatorPluginManager.php on line 25
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 12288 bytes) in /var/www/eliferous/vendor/zendframework/zend-validator/src/ValidatorPluginManager.php on line 25
+
+mmap() failed: [12] Cannot allocate memory
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /var/www/eliferous/vendor/phpseclib/mcrypt_compat/lib/mcrypt.php on line 1014
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 12288 bytes) in /var/www/eliferous/vendor/zendframework/zend-validator/src/ValidatorPluginManager.php on line 25
+
+mmap() failed: [12] Cannot allocate memory
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /var/www/eliferous/vendor/phpseclib/mcrypt_compat/lib/mcrypt.php on line 1014
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/xsl.so' - libexslt.so.0: failed to map segment from shared object in Unknown on line 0
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 12288 bytes) in /var/www/eliferous/vendor/zendframework/zend-validator/src/ValidatorPluginManager.php on line 25
+
+mmap() failed: [12] Cannot allocate memory
+
+Can't initialize heap: [12] Cannot allocate memory
+
+mmap() failed: [12] Cannot allocate memory
+
+Can't initialize heap: [12] Cannot allocate memory
+The XML in file "/var/www/eliferous/app/etc/di.xml" is invalid:
+Memory allocation failed : growing buffer
+Line: 0
+
+Memory allocation failed : growing buffer
+Line: 0
+
+Verify the XML and try again.
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/curl.so' - libhx509.so.5: failed to map segment from shared object in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/dom.so' - /usr/lib/php/20160303/dom.so: failed to map segment from shared object in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/xmlreader.so' - /usr/lib/php/20160303/xmlreader.so: undefined symbol: dom_node_class_entry in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/xsl.so' - /usr/lib/php/20160303/xsl.so: undefined symbol: dom_node_class_entry in Unknown on line 0
+PHP Fatal error:  Uncaught Error: Class 'DOMDocument' not found in /var/www/eliferous/vendor/magento/framework/Config/Dom.php:390
+Stack trace:
+#0 /var/www/eliferous/vendor/magento/framework/Config/Dom.php(117): Magento\Framework\Config\Dom->_initDom('<?xml version="...')
+#1 /var/www/eliferous/vendor/magento/framework/ObjectManager/Config/Reader/Dom.php(70): Magento\Framework\Config\Dom->__construct('<?xml version="...', Object(Magento\Framework\App\Arguments\ValidationState), Array, 'xsi:type', NULL)
+#2 /var/www/eliferous/vendor/magento/framework/Config/Reader/Filesystem.php(151): Magento\Framework\ObjectManager\Config\Reader\Dom->_createConfigMerger('Magento\\Framewo...', '<?xml version="...')
+#3 /var/www/eliferous/vendor/magento/framework/Config/Reader/Filesystem.php(132): Magento\Framework\Config\Reader\Filesystem->_readFiles(Object(Magento\Framework\Config\FileIterator))
+#4 /var/www/eliferous/vendor/magento/framework/App/ObjectManagerFactory.php(276): Magento\Framework\Config\Reader\Filesystem->read('primary')
+#5 /var/www/ in /var/www/eliferous/vendor/magento/framework/Config/Dom.php on line 390
+The XML in file "/var/www/eliferous/app/etc/di.xml" is invalid:
+Memory allocation failed : xmlSAX2Characters
+Line: 653
+
+xmlSAX2Characters
+Line: 653
+
+Extra content at the end of the document
+Line: 653
+
+Verify the XML and try again.
+
+mmap() failed: [12] Cannot allocate memory
+
+Can't initialize heap: [12] Cannot allocate memory
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/mcrypt.so' - /usr/lib/php/20160303/mcrypt.so: failed to map segment from shared object in Unknown on line 0
+
+mmap() failed: [12] Cannot allocate memory
+/usr/bin/php7.1: error while loading shared libraries: libm.so.6: failed to map segment from shared object
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/gd.so' - libX11.so.6: failed to map segment from shared object in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/gmp.so' - /usr/lib/php/20160303/gmp.so: failed to map segment from shared object in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/intl.so' - libicudata.so.64: failed to map segment from shared object in Unknown on line 0
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 12288 bytes) in /var/www/eliferous/vendor/zendframework/zend-validator/src/ValidatorPluginManager.php on line 25
+
+mmap() failed: [12] Cannot allocate memory
+
+Can't initialize heap: [12] Cannot allocate memory
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 12288 bytes) in /var/www/eliferous/vendor/zendframework/zend-validator/src/ValidatorPluginManager.php on line 25
+
+mmap() failed: [12] Cannot allocate memory
+
+Can't initialize heap: [12] Cannot allocate memory
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/fileinfo.so' - /usr/lib/php/20160303/fileinfo.so: failed to map segment from shared object in Unknown on line 0
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 12288 bytes) in /var/www/eliferous/vendor/zendframework/zend-validator/src/ValidatorPluginManager.php on line 25
+
+mmap() failed: [12] Cannot allocate memory
+
+Can't initialize heap: [12] Cannot allocate memory
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/curl.so' - libhx509.so.5: failed to map segment from shared object in Unknown on line 0
+
+mmap() failed: [12] Cannot allocate memory
+
+Can't initialize heap: [12] Cannot allocate memory
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/readline.so' - /usr/lib/php/20160303/readline.so: failed to map segment from shared object in Unknown on line 0
+
+mmap() failed: [12] Cannot allocate memory
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /var/www/eliferous/vendor/phpseclib/mcrypt_compat/lib/mcrypt.php on line 1014
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/curl.so' - libtasn1.so.6: failed to map segment from shared object in Unknown on line 0
+
+mmap() failed: [12] Cannot allocate memory
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /var/www/eliferous/vendor/phpseclib/mcrypt_compat/lib/mcrypt.php on line 1014
+
+mmap() failed: [12] Cannot allocate memory
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /var/www/eliferous/vendor/phpseclib/mcrypt_compat/lib/mcrypt.php on line 1014
+
+mmap() failed: [12] Cannot allocate memory
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /var/www/eliferous/vendor/phpseclib/mcrypt_compat/lib/mcrypt.php on line 1014
+
+mmap() failed: [12] Cannot allocate memory
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /var/www/eliferous/vendor/phpseclib/mcrypt_compat/lib/mcrypt.php on line 1014
+
+mmap() failed: [12] Cannot allocate memory
+
+mmap() failed: [12] Cannot allocate memory
+PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /var/www/eliferous/vendor/phpseclib/mcrypt_compat/lib/mcrypt.php on line 1014
+
+mmap() failed: [12] Cannot allocate memory
+
+Can't initialize heap: [12] Cannot allocate memory
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/xmlrpc.so' - /usr/lib/php/20160303/xmlrpc.so: failed to map segment from shared object in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/gd.so' - libXdmcp.so.6: failed to map segment from shared object in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/gettext.so' - /usr/lib/php/20160303/gettext.so: failed to map segment from shared object in Unknown on line 0
+
+mmap() failed: [12] Cannot allocate memory
+Warning: proc_open(): fork failed - Cannot allocate memory in /var/www/eliferous/vendor/symfony/console/Terminal.php on line 127#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'proc_open(): fo...', '/var/www/elifer...', 127, Array)
+#1 /var/www/eliferous/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /var/www/eliferous/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /var/www/eliferous/vendor/symfony/console/Terminal.php(51): Symfony\Component\Console\Terminal::initDimensions()
+#4 /var/www/eliferous/vendor/symfony/console/Application.php(112): Symfony\Component\Console\Terminal->getHeight()
+#5 /var/www/eliferous/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main}
+
+Warning: DOMXPath::query(): Memory allocation failed : growing nodeset in /var/www/eliferous/vendor/magento/framework/Config/Dom.php on line 277
+
+mmap() failed: [12] Cannot allocate memory
+
+Can't initialize heap: [12] Cannot allocate memory
+
+mmap() failed: [12] Cannot allocate memory
+
+Can't initialize heap: [12] Cannot allocate memory
+
+mmap() failed: [12] Cannot allocate memory
+
+Can't initialize heap: [12] Cannot allocate memory
+Warning: proc_open(): fork failed - Cannot allocate memory in /var/www/eliferous/vendor/symfony/console/Terminal.php on line 127#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'proc_open(): fo...', '/var/www/elifer...', 127, Array)
+#1 /var/www/eliferous/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /var/www/eliferous/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /var/www/eliferous/vendor/symfony/console/Terminal.php(51): Symfony\Component\Console\Terminal::initDimensions()
+#4 /var/www/eliferous/vendor/symfony/console/Application.php(112): Symfony\Component\Console\Terminal->getHeight()
+#5 /var/www/eliferous/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main}
+
+
+mmap() failed: [12] Cannot allocate memory
+
+Can't initialize heap: [12] Cannot allocate memory
