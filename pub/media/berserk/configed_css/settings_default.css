@@ -1,6 +1,6 @@
 /**
  * WARNING: Do not change this file. Your changes will be lost.
- * 2019-08-28 13:14:42 */
+ * 2019-08-29 10:48:09 */
 .page-footer {
      background: none;
      padding: 0;
@@ -202,7 +202,7 @@ background-color: #757575 !important;
 
 .minicart-wrapper .block-minicart .block-title {box-shadow: 0 6px 30px rgba(0, 0, 0, 0.12), inset 0 -2px #000000 !important;}
 
-.block-minicart .block-content > .actions > .primary .action.primary {background-color: #000000 !important;}
+.block-minicart .block-content > .actions > .primary .action.primary {background-color: #000000 !important; box-shadow: 0 5px 16px rgba(0, 0, 0, 0.5) !important;}
 
 .minicart-wrapper .block-minicart {box-shadow: 0 6px 30px rgba(0, 0, 0, 0.12), inset 0 -3px #000000 !important;}
 
@@ -214,3 +214,54 @@ background-color: #757575 !important;
 }
 
 .page-header.type4 .block-search .block-content .action.search:before {color: #000000 !important;}
+
+button.btn-backgrounds.btn-backgrounds:hover {color: #6a6a6a !important;}
+
+.minicart-items .action.edit:hover, .minicart-items .action.delete:hover {background-color: #000 !important;}
+
+.minicart-items .product-item-details .price {color: #000 !important;}
+
+.block-minicart .block-content > .actions > .secondary a.action.viewcart {color: #000 !important;}
+
+.block-minicart .subtotal {box-shadow: 0 6px 30px rgba(0, 0, 0, 0.12), inset 0 -2px #000 !important;}
+
+.minicart-items .product-item > .product:hover {box-shadow: 0 6px 30px rgba(0, 0, 0, 0.12), inset 3px 0 #000 !important;}
+
+.cart.table-wrapper .price-excluding-tax .cart-price {color: #0d0d0d !important;}
+
+.btn-inside-out:hover {background: #4d4d4d !important;}
+
+.btn-inside-out:hover.btn-shadow {box-shadow: 0 5px 10px -2px #000 !important;}
+
+.cart-totals tbody > .grand.totals .amount {color: #000 !important;}
+
+.checkout-cart-index .cart-summary::after {background-image: linear-gradient(to right, #000 0%, #d0d0d0 100%) !important;}
+
+.checkout-cart-index .coupon-wrapper::after {background-image: linear-gradient(to right, #000 0%, #d0d0d0 100%) !important;}
+
+.btn-prime .border-btn {border: 2px solid #000 !important;}
+
+.btn-prime {color: #000 !important;}
+
+.btn-prime:hover {color: #000 !important;}
+
+.btn-prime > .after, .btn-prime > .before {background: #020202 !important;}
+.btn-prime:hover > .after, .btn-prime:hover > .before {background: #dfdfdf !important;}
+
+.btn-shadow {box-shadow: 0 5px 10px -2px #000 !important;}
+
+.steps__wrapper-checkers .steps__dot > .after {background: #000 !important;} 
+
+.opc-sidebar .modal-content::after {background-image: linear-gradient(to right, #000 0%, #a8a8a8 100%) !important;}
+
+.authentication-wrapper button span {color: #000 !important;}
+
+.minicart-wrapper .action.showcart .counter.qty {
+    background: #333233 !important;}
+
+.minicart-items .action.edit::before, .minicart-items .action.delete::before {color: #a6a6a6 !important;}
+
+.btn-load-more .fa-sync::before {content: "\f309" !important;}
+.products-quicknav .product-nav > a i {color: #000 !important;}
+
+.multicheckout span {color: #000 !important;}
