@@ -36,8 +36,8 @@
 ############################################
 ## adjust memory limit
 
-    php_value memory_limit 756M
-    php_value max_execution_time 18000
+    php_value memory_limit 2G
+    php_value max_execution_time 100000
 
 ############################################
 ## disable automatic session start

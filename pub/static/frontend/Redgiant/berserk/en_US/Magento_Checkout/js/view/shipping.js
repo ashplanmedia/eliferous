@@ -1,1 +1,0 @@
-/var/www/eliferous/app/design/frontend/Redgiant/berserk/Magento_Checkout/web/js/view/shipping.js

@@ -1,1 +1,0 @@
-/var/www/eliferous/app/design/frontend/Redgiant/berserk/Redgiant_LayeredNavigation/web/js/view/layer.js

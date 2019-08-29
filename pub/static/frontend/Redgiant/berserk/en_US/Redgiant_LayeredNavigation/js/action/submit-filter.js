@@ -1,1 +1,0 @@
-/var/www/eliferous/app/code/Redgiant/LayeredNavigation/view/frontend/web/js/action/submit-filter.js
