@@ -1,6 +1,6 @@
 /**
  * WARNING: Do not change this file. Your changes will be lost.
- * 2019-08-29 10:48:09 */
+ * 2019-08-30 05:27:25 */
 .page-footer {
      background: none;
      padding: 0;
@@ -125,6 +125,13 @@ border-top: 5px solid #000 !important;
 .layered-filter-block-container > .block.filter {display: none !important;}
 .columns .sidebar-main {display: none !important;}
 .toolbar .modes.brk-sc-view-swiper, .toolbar .modes.brk-sc-view-swiper__btn {display: none !important;}
+.nav-sections-item-title {display: none !important}
+.nav-open .nav-sections {background: none !important}
+.nav-open .nav-sections .nav-sections-items {background-color: rgba(0, 0, 0, 0.34) !important;}
+.navigation .level0 > .level-top {color: #fff !important;}
+.nav-open .nav-sections .header.links li.greet.welcome {color: #fff !important;}
+.nav-sections .header.links a, .nav-sections .header.links a:hover {color: #fff !important;}
+.nav-open .nav-sections .nav-sections-items::before {background: linear-gradient(to right, #000, #c8c8c8) !important;}
 }.page-footer {
     padding: 0;
 }
