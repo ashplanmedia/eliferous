@@ -1,6 +1,6 @@
 /**
  * WARNING: Do not change this file. Your changes will be lost.
- * 2019-08-30 05:27:25 */
+ * 2019-08-30 10:50:03 */
 .page-footer {
      background: none;
      padding: 0;
@@ -272,3 +272,10 @@ button.btn-backgrounds.btn-backgrounds:hover {color: #6a6a6a !important;}
 .products-quicknav .product-nav > a i {color: #000 !important;}
 
 .multicheckout span {color: #000 !important;}
+
+.fotorama-item .fotorama__thumb__arr .fotorama__thumb--icon, .fotorama-item .fotorama-sprite, .fotorama-item .fotorama__zoom-in, .fotorama-item .fotorama__zoom-out, .fotorama-item .fotorama__arr .fotorama__arr__arr, .fotorama-item .fotorama__fullscreen-icon, .fotorama-item .fotorama__thumb__arr {color: #000000 !important;}
+.fotorama-item .fotorama__nav-wrap .fotorama__thumb-border {
+    border-color: #000000 !important;
+}
+
+.weltpixel-quickview-catalog-product-view .box-gotoproduct .action, .weltpixel_quickview-catalog_product-view .box-gotoproduct .action {color: #000000 !important;}
