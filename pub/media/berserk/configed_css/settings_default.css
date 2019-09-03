@@ -1,6 +1,6 @@
 /**
  * WARNING: Do not change this file. Your changes will be lost.
- * 2019-08-30 10:50:03 */
+ * 2019-09-03 05:54:33 */
 .page-footer {
      background: none;
      padding: 0;
@@ -268,7 +268,7 @@ button.btn-backgrounds.btn-backgrounds:hover {color: #6a6a6a !important;}
 
 .minicart-items .action.edit::before, .minicart-items .action.delete::before {color: #a6a6a6 !important;}
 
-.btn-load-more .fa-sync::before {content: "\f309" !important;}
+.btn-load-more .fa-sync::before {content: "Load more" !important;}
 .products-quicknav .product-nav > a i {color: #000 !important;}
 
 .multicheckout span {color: #000 !important;}
@@ -279,3 +279,10 @@ button.btn-backgrounds.btn-backgrounds:hover {color: #6a6a6a !important;}
 }
 
 .weltpixel-quickview-catalog-product-view .box-gotoproduct .action, .weltpixel_quickview-catalog_product-view .box-gotoproduct .action {color: #000000 !important;}
+
+.block-category-list a {
+    color: #000000 !important;}
+
+.brk-dark-font-color {
+    color: #000000!important;
+}

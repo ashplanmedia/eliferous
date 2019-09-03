@@ -3499,6 +3499,52 @@
         ]
     },
     {
+        "name": "lillik/magento2-price-decimal",
+        "version": "1.0.6",
+        "version_normalized": "1.0.6.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/lillik/magento2-price-decimal.git",
+            "reference": "963eaab6291c1607fe03351a2012b361eb305a72"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/lillik/magento2-price-decimal/zipball/963eaab6291c1607fe03351a2012b361eb305a72",
+            "reference": "963eaab6291c1607fe03351a2012b361eb305a72",
+            "shasum": ""
+        },
+        "require": {
+            "magento/framework": "*",
+            "php": "~5.6.0|7.0.2|7.0.4|~7.0.6|~7.1"
+        },
+        "time": "2018-10-23T08:01:46+00:00",
+        "type": "magento2-module",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "registration.php"
+            ],
+            "psr-4": {
+                "Lillik\\PriceDecimal\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache-2.0"
+        ],
+        "authors": [
+            {
+                "name": "Lilian Codreanu",
+                "role": "Developer",
+                "email": "lilian.codreanu@gmail.com"
+            }
+        ],
+        "description": "Magento 2 Price Decimal Precision",
+        "keywords": [
+            "magento2"
+        ]
+    },
+    {
         "name": "lusitanian/oauth",
         "version": "v0.8.11",
         "version_normalized": "0.8.11.0",
@@ -11769,6 +11815,96 @@
         ]
     },
     {
+        "name": "mageplaza/magento-2-blog-extension",
+        "version": "3.0.6",
+        "version_normalized": "3.0.6.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mageplaza/magento-2-blog.git",
+            "reference": "68ba215c9f56026de31a705092abe7c3b039930f"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/mageplaza/magento-2-blog/zipball/68ba215c9f56026de31a705092abe7c3b039930f",
+            "reference": "68ba215c9f56026de31a705092abe7c3b039930f",
+            "shasum": ""
+        },
+        "require": {
+            "mageplaza/module-core": "^1.4.4"
+        },
+        "time": "2019-06-13T02:20:35+00:00",
+        "type": "magento2-module",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "registration.php"
+            ],
+            "psr-4": {
+                "Mageplaza\\Blog\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "proprietary"
+        ],
+        "authors": [
+            {
+                "name": "Mageplaza",
+                "email": "support@mageplaza.com",
+                "homepage": "https://www.mageplaza.com",
+                "role": "Technical Support"
+            }
+        ],
+        "description": "Magento 2 Blog extension",
+        "keywords": [
+            "blog",
+            "magento 2",
+            "magento 2 blog",
+            "magento2",
+            "mageplaza"
+        ]
+    },
+    {
+        "name": "mageplaza/module-core",
+        "version": "1.4.6",
+        "version_normalized": "1.4.6.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mageplaza/module-core.git",
+            "reference": "85bfb6ef453471b2cef789dcf23525be8e7b881f"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/mageplaza/module-core/zipball/85bfb6ef453471b2cef789dcf23525be8e7b881f",
+            "reference": "85bfb6ef453471b2cef789dcf23525be8e7b881f",
+            "shasum": ""
+        },
+        "time": "2019-08-16T08:51:45+00:00",
+        "type": "magento2-module",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "registration.php"
+            ],
+            "psr-4": {
+                "Mageplaza\\Core\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "proprietary"
+        ],
+        "authors": [
+            {
+                "name": "Mageplaza",
+                "role": "Technical Support",
+                "email": "support@mageplaza.com",
+                "homepage": "https://www.mageplaza.com"
+            }
+        ],
+        "description": "Mageplaza Core for Magento 2"
+    },
+    {
         "name": "monolog/monolog",
         "version": "1.24.0",
         "version_normalized": "1.24.0.0",
@@ -13671,7 +13807,8 @@
         "keywords": [
             "mock",
             "xunit"
-        ]
+        ],
+        "abandoned": true
     },
     {
         "name": "psr/container",

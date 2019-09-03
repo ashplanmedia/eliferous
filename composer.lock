@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "d89d1ca0be9f0c8caacd88a23fe926d8",
+    "content-hash": "e333063ee496ed13af38b9f07d14f2d5",
     "packages": [
         {
             "name": "amzn/amazon-pay-and-login-magento-2-module",
@@ -1800,6 +1800,50 @@
                 }
             ],
             "description": "Klarna Order Management Magento 2 Extension"
+        },
+        {
+            "name": "lillik/magento2-price-decimal",
+            "version": "1.0.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lillik/magento2-price-decimal.git",
+                "reference": "963eaab6291c1607fe03351a2012b361eb305a72"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lillik/magento2-price-decimal/zipball/963eaab6291c1607fe03351a2012b361eb305a72",
+                "reference": "963eaab6291c1607fe03351a2012b361eb305a72",
+                "shasum": ""
+            },
+            "require": {
+                "magento/framework": "*",
+                "php": "~5.6.0|7.0.2|7.0.4|~7.0.6|~7.1"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Lillik\\PriceDecimal\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "Lilian Codreanu",
+                    "role": "Developer",
+                    "email": "lilian.codreanu@gmail.com"
+                }
+            ],
+            "description": "Magento 2 Price Decimal Precision",
+            "keywords": [
+                "magento2"
+            ],
+            "time": "2018-10-23T08:01:46+00:00"
         },
         {
             "name": "magento/composer",
@@ -9532,6 +9576,92 @@
             "time": "2018-08-09T15:03:40+00:00"
         },
         {
+            "name": "mageplaza/magento-2-blog-extension",
+            "version": "3.0.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mageplaza/magento-2-blog.git",
+                "reference": "68ba215c9f56026de31a705092abe7c3b039930f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mageplaza/magento-2-blog/zipball/68ba215c9f56026de31a705092abe7c3b039930f",
+                "reference": "68ba215c9f56026de31a705092abe7c3b039930f",
+                "shasum": ""
+            },
+            "require": {
+                "mageplaza/module-core": "^1.4.4"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Mageplaza\\Blog\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "Mageplaza",
+                    "email": "support@mageplaza.com",
+                    "homepage": "https://www.mageplaza.com",
+                    "role": "Technical Support"
+                }
+            ],
+            "description": "Magento 2 Blog extension",
+            "keywords": [
+                "blog",
+                "magento 2",
+                "magento 2 blog",
+                "magento2",
+                "mageplaza"
+            ],
+            "time": "2019-06-13T02:20:35+00:00"
+        },
+        {
+            "name": "mageplaza/module-core",
+            "version": "1.4.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mageplaza/module-core.git",
+                "reference": "85bfb6ef453471b2cef789dcf23525be8e7b881f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mageplaza/module-core/zipball/85bfb6ef453471b2cef789dcf23525be8e7b881f",
+                "reference": "85bfb6ef453471b2cef789dcf23525be8e7b881f",
+                "shasum": ""
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Mageplaza\\Core\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "Mageplaza",
+                    "role": "Technical Support",
+                    "email": "support@mageplaza.com",
+                    "homepage": "https://www.mageplaza.com"
+                }
+            ],
+            "description": "Mageplaza Core for Magento 2",
+            "time": "2019-08-16T08:51:45+00:00"
+        },
+        {
             "name": "monolog/monolog",
             "version": "1.24.0",
             "source": {
@@ -11584,67 +11714,6 @@
             "time": "2018-01-15T15:26:51+00:00"
         },
         {
-            "name": "vertex/module-tax",
-            "version": "3.0.0",
-            "dist": {
-                "type": "zip",
-                "url": "https://repo.magento.com/archives/vertex/module-tax/vertex-module-tax-3.0.0.0.zip",
-                "reference": null,
-                "shasum": "5301f7a4d294cabcab3ae83e31fe5386c076520c"
-            },
-            "require": {
-                "ext-simplexml": "*",
-                "ext-soap": "*",
-                "magento/framework": "^100|^101|^102",
-                "magento/module-backend": "^100|^101",
-                "magento/module-catalog": "^100|^101|^102|^103",
-                "magento/module-config": "^100|^101",
-                "magento/module-customer": "^100|^101|^102",
-                "magento/module-directory": "^100",
-                "magento/module-eav": "^100|^101|^102",
-                "magento/module-quote": "^100|^101",
-                "magento/module-sales": "^100|^101|^102",
-                "magento/module-shipping": "^100",
-                "magento/module-store": "^100|^101",
-                "magento/module-tax": "^100",
-                "php": "^5.6|^7.0",
-                "vertex/sdk": "^1.0.0"
-            },
-            "conflict": {
-                "magento/module-gift-wrapping": ">=102",
-                "pixafy/tax": "*",
-                "pixafy/tax-ee": "*",
-                "vertex/tax": "*",
-                "vertex/tax-ee": "*"
-            },
-            "require-dev": {
-                "magento/magento2-functional-testing-framework": "^2.3",
-                "magento/marketplace-eqp": "^1.0",
-                "magento/module-offline-shipping": "^100.2",
-                "magento/module-usps": "^100.2"
-            },
-            "suggest": {
-                "magento/module-checkout": "Vertex Tax Links for Magento 2 also supports Magento's Checkout module",
-                "magento/module-gift-card-account": "Vertex Tax Links for Magento 2 also supports Magento's Gift Card Account module",
-                "magento/module-gift-wrapping": "Vertex Tax Links for Magento 2 also supports Magento's Gift Wrapping module",
-                "magento/module-multishipping": "Vertex Tax Links for Magento 2 also supports Magento's Multishipping module",
-                "magento/module-reward": "Vertex Tax Links for Magento 2 also supports Magento's Reward module"
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Vertex\\Tax\\": ""
-                }
-            },
-            "license": [
-                "proprietary"
-            ],
-            "description": "Vertex Tax Links for Magento 2"
-        },
-        {
             "name": "vertex/product-magento-module",
             "version": "3.0.0",
             "dist": {
@@ -11674,38 +11743,6 @@
                 "tax",
                 "vertex"
             ]
-        },
-        {
-            "name": "vertex/sdk",
-            "version": "1.0.0",
-            "dist": {
-                "type": "zip",
-                "url": "https://repo.magento.com/archives/vertex/sdk/vertex-sdk-1.0.0.0.zip",
-                "reference": null,
-                "shasum": "6c7ed091879e66d75faf95fed7e48751693c68c7"
-            },
-            "require": {
-                "ext-mbstring": "*",
-                "ext-openssl": "*",
-                "ext-soap": "*",
-                "php": "^5.4|^7"
-            },
-            "require-dev": {
-                "php": "^7.1",
-                "phpmd/phpmd": "^2.6",
-                "phpunit/phpunit": "^7.2",
-                "squizlabs/php_codesniffer": "^3.3"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "Vertex\\": "src/"
-                }
-            },
-            "license": [
-                "proprietary"
-            ],
-            "description": "Tools for communicating with Vertex Cloud and Vertex O-Series"
         },
         {
             "name": "webonyx/graphql-php",
@@ -18066,6 +18103,38 @@
             ],
             "description": "A small library for converting tokenized PHP source code into XML and potentially other formats",
             "time": "2017-04-07T12:08:54+00:00"
+        },
+        {
+            "name": "vertex/sdk",
+            "version": "1.0.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/vertex/sdk/vertex-sdk-1.0.0.0.zip",
+                "reference": null,
+                "shasum": "6c7ed091879e66d75faf95fed7e48751693c68c7"
+            },
+            "require": {
+                "ext-mbstring": "*",
+                "ext-openssl": "*",
+                "ext-soap": "*",
+                "php": "^5.4|^7"
+            },
+            "require-dev": {
+                "php": "^7.1",
+                "phpmd/phpmd": "^2.6",
+                "phpunit/phpunit": "^7.2",
+                "squizlabs/php_codesniffer": "^3.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Vertex\\": "src/"
+                }
+            },
+            "license": [
+                "proprietary"
+            ],
+            "description": "Tools for communicating with Vertex Cloud and Vertex O-Series"
         },
         {
             "name": "vlucas/phpdotenv",
