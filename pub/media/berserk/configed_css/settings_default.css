@@ -1,6 +1,6 @@
 /**
  * WARNING: Do not change this file. Your changes will be lost.
- * 2019-09-03 05:54:33 */
+ * 2019-09-03 08:44:00 */
 .page-footer {
      background: none;
      padding: 0;
@@ -286,3 +286,8 @@ button.btn-backgrounds.btn-backgrounds:hover {color: #6a6a6a !important;}
 .brk-dark-font-color {
     color: #000000!important;
 }
+brk-dark-font-color {
+    color: #000000!important;
+}
+
+.brk-white-font-color {color: #000 !important;}
