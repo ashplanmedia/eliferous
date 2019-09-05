@@ -1,6 +1,6 @@
 /**
  * WARNING: Do not change this file. Your changes will be lost.
- * 2019-09-03 08:44:00 */
+ * 2019-09-04 13:57:03 */
 .page-footer {
      background: none;
      padding: 0;
@@ -132,7 +132,15 @@ border-top: 5px solid #000 !important;
 .nav-open .nav-sections .header.links li.greet.welcome {color: #fff !important;}
 .nav-sections .header.links a, .nav-sections .header.links a:hover {color: #fff !important;}
 .nav-open .nav-sections .nav-sections-items::before {background: linear-gradient(to right, #000, #c8c8c8) !important;}
-}.page-footer {
+}
+
+@media screen and (max-width: 768px) {
+.product-image-photo { height: 370px !important;
+width: 100% !important;} }
+
+@media screen and (max-width: 600px) {
+.product-image-photo { height: 370px !important;
+width: 387px !important;} }.page-footer {
     padding: 0;
 }
 .page-footer > div {
