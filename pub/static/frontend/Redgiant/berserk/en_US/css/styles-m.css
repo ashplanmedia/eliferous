@@ -25529,3 +25529,11 @@ fieldset[disabled] .sidebar .block-addbysku .action.remove {
     width: 33.33333333%;
   }
 }
+
+
+.product-item-inner a .fa-search {color: #000 !important;}
+
+@media screen and (max-width: 600px) {
+  body:not(.cms-index-index) .page-wrapper .top-container {padding: 115px 0 47px 0;}
+}
+}
